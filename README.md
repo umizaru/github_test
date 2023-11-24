@@ -1,2 +1,2 @@
 # github_test
-GitHubの認証エラー調査用です
+GitHubの認証エラー調査用ですよ
